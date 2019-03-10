@@ -4,22 +4,23 @@
 鉴于该作弊软件吸引了大量人加星，助长了违法行为的气势，我们正义人士早就看不惯了！
 
 # 针对使用Fuck-XueXiQiangGuo学习强国刷分软件作弊的人士的最后通牒！
-这是我们的最后通牒：我们要求所有人立即取消加星，取消关注，取消fork，pull request等一切于该项目的联系！！我们已经保存了所有证据备份了所有名单，对于拒不取消关注的，我们将毫不留情的举报，我们不仅将举报给网信办网警，还会把能查证到其公司或学校的用户举报给其公司或学校或其所在党支部！！其不诚信行为可能会影响其职业发炸或被记入档案！！如果有人怀疑我们的举报能力，请推特搜索 jvbaoillegal 了解下我们的举报成果。
-关注了的人：
-第一页：https://archive.is/VtdZG
-第二页：https://archive.is/VtdZG
-加星了的人：
-https://archive.is/9XLOR
-https://archive.is/SDX1X
-https://archive.is/cLgju
-https://archive.is/35tGu
-https://archive.is/cqLL2
-https://archive.is/JmJgf
-……
-Fork了的人：
-https://archive.is/O20EN
+
+我们已经保存了备份了所有关注加星的名单。我们要求所有人立即取消加星，取消关注，否则将会被无情举报！ 这是我们的最后通牒：我们要求所有人立即取消加星，取消关注，取消fork，pull request等一切于该项目的联系！！我们已经保存了所有证据备份了所有名单，对于拒不取消关注的，我们将毫不留情的举报，我们不仅将举报给网信办网警，还会把能查证到其公司或学校的用户举报给其公司或学校或其所在党支部！！其不诚信行为可能会影响其职业发炸或被记入档案！！如果有人怀疑我们的举报能力，请推特搜索 jvbaoillegal 了解下我们的举报成果。  
+关注了的人：  
+第一页：https://archive.is/VtdZG  
+第二页：https://archive.is/VtdZG  
+加星了的人：  
+https://archive.is/9XLOR  
+https://archive.is/SDX1X  
+https://archive.is/cLgju  
+https://archive.is/35tGu  
+https://archive.is/cqLL2  
+https://archive.is/JmJgf  
+……  
+Fork了的人：  
+https://archive.is/O20EN  
 Pull Request的人：
-https://archive.is/ru0gP
+https://archive.is/ru0gP  
 
 # 向Github report abuse，向学习强国官方举报，向网信办举报
 同时我们要向Github举报 report abuse，向学习强国官方举报，向网信办举报！！
