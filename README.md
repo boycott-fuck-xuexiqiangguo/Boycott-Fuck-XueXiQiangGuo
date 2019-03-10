@@ -1,5 +1,5 @@
 # 为什么必须举报？
-# Using Fuck-XueXiQiangGuo are cheating behaviour, cheaters must be reported!
+
 我们注意到最近在GitHub上出现一个名叫Fuck-XueXiQiangGuo的针对学习强国的自动刷分的软件，这个刷分软件能自动获得学习强国分数。学习强国软件是为了真正学到知识技能！但却有人发布这种自动刷分软件，这就类似游戏开挂，对于正常学习的用户严重不公平，这种利用软件作弊的行为是严重违法行为！
 鉴于该作弊软件吸引了大量人加星，助长了违法行为的气势，我们正义人士早就看不惯了！
 
@@ -26,3 +26,5 @@ https://archive.is/ru0gP
 The user https://github.com/Fxxk-XueXiQiangGuo is using Github to spread illegal hacking software at his repo https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo
 There is a great App called XueXiQiangGuo to learn knowledge and skills in China. Many companies/schools require their employees/students to use this tool to learn knowledge and earn credits. These requirements by these companies/schools are legal as their labor contacts which signed by these employees and these companies (or schools' regulations which have agreed by the students) allowed these companies/schools to do so.
 This Fuck-XueXiQiangGuo (https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo) software is a hacking software to hack the above mentioned XueXiQiangGuo App. This Fuck-XueXiQiangGuo software is designed for the employees/students to automatically get credits on the XueXiQiangGuo App without any effort of learning! This is a grave violation of fairness. It's very unfair for those who learn hard get real knowledge and get real credits. So we request to delete this software immediately and remove any folked source code.
+
+# Using Fuck-XueXiQiangGuo are cheating behaviour, cheaters must be reported!
