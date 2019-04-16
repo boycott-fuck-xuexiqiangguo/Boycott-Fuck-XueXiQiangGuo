@@ -62,16 +62,16 @@ We have to question: Why Github is biased against us? Is Github officially have 
 
 该学生向学习强国违法作弊刷分软件提交Pull Request已被举报，举报成果该账户已封停！
 
-## [东北林业大学一学生侮辱我国领导人，给境外意见领袖python头子发送抹黑我们的谣言](https://medium.com/@jvbaoillegal/%E4%B8%BE%E6%8A%A5%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E5%95%86%E5%AD%A6%E9%99%A2%E7%A0%94%E7%A9%B6%E7%94%9F%E8%80%83%E7%94%9F-%E5%AD%94%E7%B9%81%E8%BF%AA-%E5%8F%8D%E5%8A%A8%E5%8F%8D%E5%85%9A%E4%BE%AE%E8%BE%B1%E6%88%91%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA-9d7501ba0d65)
+## [东北林业大学一学生侮辱我国领导人，给境外意见领袖python头子发送谣言，已被举报](https://medium.com/@jvbaoillegal/%E4%B8%BE%E6%8A%A5%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E5%95%86%E5%AD%A6%E9%99%A2%E7%A0%94%E7%A9%B6%E7%94%9F%E8%80%83%E7%94%9F-%E5%AD%94%E7%B9%81%E8%BF%AA-%E5%8F%8D%E5%8A%A8%E5%8F%8D%E5%85%9A%E4%BE%AE%E8%BE%B1%E6%88%91%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA-9d7501ba0d65)
 
 最近程序员的意见领袖python头子吉多·范罗苏姆(Guido van Rossum)在996事件上吃饱了撑的对我们指指点点，居然呼吁要罢工要革命。我们注意到一个用户名叫”阿尔达坎ᡴᠣᠪᠠᠶᠠᠰᡳ (j3F4UR9VD3urlLy)”的推特用户，该用户不仅不去与这种论调抗辩，反而添油加醋给他们提供弹药，该用户给吉多·范罗苏姆的推文中造谣传播“深圳佳士罢工事件”的不实报道说我国政府没有保障工人利益，给我国政府泼脏水。然后该意见领袖吉多·范罗苏姆居然还听信他的言论，转发了他的推文！我们发现该用户发表过很多污蔑我国领导人的言论，举报给其东北林业大学经济管理学院林业经济管理专业之后，该账号已删除，python头子已删除相关推特但还没公开道歉。
 
-## [简书](https://medium.com/@jvbaoillegal/%E6%9C%80%E6%96%B0%E4%B8%BE%E6%8A%A5%E6%88%90%E6%9E%9C-%E7%AE%80%E4%B9%A6%E7%BD%91%E7%AB%99%E5%85%85%E6%96%A5%E5%90%84%E7%A7%8D%E8%BF%9D%E6%B3%95%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B%E5%86%85%E5%AE%B9-9386b6250c43)
+## [简书充斥各种违法翻墙教程和传播反动言论的Telegram教程，已被举报](https://medium.com/@jvbaoillegal/%E6%9C%80%E6%96%B0%E4%B8%BE%E6%8A%A5%E6%88%90%E6%9E%9C-%E7%AE%80%E4%B9%A6%E7%BD%91%E7%AB%99%E5%85%85%E6%96%A5%E5%90%84%E7%A7%8D%E8%BF%9D%E6%B3%95%E7%BF%BB%E5%A2%99%E6%95%99%E7%A8%8B%E5%86%85%E5%AE%B9-9386b6250c43)
 
 最新举报成果：简书网站充斥各种违法翻墙教程内容，和传播违法聊天软件Telegram教程，现在终于因为违反《网络安全法》，已经被要求彻底整改！不信的看看截图，我们从今年1月份就开始举报了，现在终于要整改了，这就是我们持续不断向网信办 12377.cn 举报的成果！！正义终于得到伸张。
 
+# 为什么我们要举报？为什么我们国家必须要有墙，为什么我们一定要屏蔽谷歌，为什么我们要打击违法VPN！
 # GFW-is-Great! Why must we have GFW (Great Fire Wall) in China? 
-# 为什么我们国家必须要有墙，为什么我们一定要屏蔽谷歌，为什么我们要打击违法VPN！
 
 Why must we have GFW (Great Fire Wall) in China? Why do we have to block Google outside? Why do we have to ban illegal VPN services?!
 
