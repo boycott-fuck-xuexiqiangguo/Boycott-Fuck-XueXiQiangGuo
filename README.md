@@ -22,9 +22,7 @@ https://archive.is/JmJgf
 Fork了的人：  
 https://archive.is/O20EN  
 Pull Request的人：
-https://archive.is/ru0gP  
-
-
+h
 # 向Github report abuse，向学习强国官方举报，向网信办举报
 # Using Fuck-XueXiQiangGuo is cheating behaviour. cheaters must be reported!
 
